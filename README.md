@@ -26,9 +26,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center" style="display: flex; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Panda102903&show_icons=true&theme=tokyo-night" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda102903&layout=compact&theme=tokyo-night" alt="Top Langs" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Panda102903&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 20px;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda102903&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panda102903&theme=tokyo-night" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panda102903&theme=radical" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Panda102903&theme=tokyo-night&no-frame=true&no-bg=true&margin-w=10" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Panda102903&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="Trophy" />
 </p>
 
 ---
