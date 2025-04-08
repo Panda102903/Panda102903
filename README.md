@@ -26,9 +26,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Panda102903&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="170" style="margin-left: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda102903&layout=compact&theme=radical" alt="Top Langs" />
+<p align="center" style="display: flex; gap: 20px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Panda102903&show_icons=true&theme=tokyo-night" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda102903&layout=compact&theme=tokyo-night" alt="Top Langs" />
 </p>
 
 ---
@@ -36,18 +36,20 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panda102903&theme=radical" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panda102903&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Panda102903&theme=tokyo-night&no-frame=true&no-bg=true&margin-w=10" alt="Trophy" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: tqk03gl@gmail.com
-- 💼 LinkedIn: [Kiet Truong](https://www.linkedin.com/in/kiet-truong-724489347/)  
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Panda102903&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
-</p>
+- 📧 Email: tqk03gl@gmail.com  
+- 💼 LinkedIn: [Kiet Truong](https://www.linkedin.com/in/kiet-truong-724489347/)
