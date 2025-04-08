@@ -33,6 +33,14 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panda102903&theme=radical" alt="Contribution Graph"/>
+</p>
+
+---
+
 ## 📫 Contact Me
 
 - 📧 Email: tqk03gl@gmail.com
