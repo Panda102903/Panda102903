@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Quoc Kiet, you can call me Panda</h1>
+<h1 align="center">Hi 👋, I'm Truong Quoc Kiet (Panda)</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=I'm+a+Web+Developer;Student+at+Greenwich+Vietnam;Love+ReactJS+%26+AI+Projects" alt="Typing SVG" />
 </p>
