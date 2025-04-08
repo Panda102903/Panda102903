@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left" gap="10px">
    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Panda102903&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda102903&layout=compact&theme=radical" alt="Top Langs" />
 </p>
