@@ -27,8 +27,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Panda102903&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 20px;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda102903&layout=compact&theme=radical" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Panda102903&show_icons=true&theme=dracula" alt="GitHub Stats" style="margin-right: 20px;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda102903&layout=compact&theme=dracula" alt="Top Langs" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panda102903&theme=radical" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panda102903&theme=dracula" alt="Contribution Graph"/>
 </p>
 
 ---
